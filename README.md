@@ -1,5 +1,4 @@
-This is my 1st project on front-end using HTML & CSS.
-To check the live project 
+One of the loved project and simple and satisfying website which looks exactly like amazon website . 
 
-click here
+click here (for best experiance view in desktop)
 https://htrakesh.github.io/Amazon-clone-/
